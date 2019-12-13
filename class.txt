@@ -1,0 +1,9 @@
+
+pip install Pillow
+
+
+MODIFICATIONS
+--account.html
+--routes.html
+--added a folder profile_pics under static directory
+
